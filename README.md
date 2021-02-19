@@ -1,2 +1,2 @@
 # asyncssh-pool
-SSH pool using asyncssh
+SSH thread-pool using asyncssh
